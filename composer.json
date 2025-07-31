@@ -1,0 +1,11 @@
+{
+    "name": "wai-blue/hubleto-hello-world-app",
+    "license": "MIT",
+    "description": "Hello world app for Hubleto",
+    "autoload": {
+        "psr-4": {
+            "HubletoApp\\External\\WaiBlue\\HelloWorld\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}

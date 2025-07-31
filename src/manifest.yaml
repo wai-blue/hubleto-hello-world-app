@@ -1,0 +1,9 @@
+namespace: HubletoApp\External\WaiBlue\HelloWorld
+sidebarGroup: custom
+rootUrlSlug: hello-world
+name: Hello World
+icon: fas fa-globe
+author:
+  name: "WAI.blue"
+  company: "wai.blue"
+highlight: Hello World app for Hubleto
