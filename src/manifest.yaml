@@ -1,4 +1,6 @@
 namespace: HubletoApp\External\WaiBlue\HelloWorld
+appType: external
+monthlyPricePerUser: 0
 sidebarGroup: custom
 rootUrlSlug: hello-world
 name: Hello World
